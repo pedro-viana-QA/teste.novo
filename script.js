@@ -5,4 +5,4 @@ for(i = 1; i < numero; i++){
     fatorial = fatorial * i
 }
 
-console.log(fatorial)
+console.log(fatorial, fatorial)
